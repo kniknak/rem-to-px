@@ -1,6 +1,6 @@
 {
   "name": "rem-to-px",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replace rem units with px",
   "main": "index.js",
   "scripts": {
