@@ -1,0 +1,30 @@
+{
+  "name": "rem-to-px",
+  "version": "0.0.0",
+  "description": "Replace rem units with px",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parshap/rem-to-px"
+  },
+  "keywords": [
+    "rem",
+    "px",
+    "css",
+    "stylesheet"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/parshap/rem-to-px/issues"
+  },
+  "homepage": "https://github.com/parshap/rem-to-px",
+  "dependencies": {
+    "css": "^2.1.0",
+    "rework-walk": "^1.0.0"
+  },
+  "devDependencies": {}
+}
